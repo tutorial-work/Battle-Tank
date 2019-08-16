@@ -75,3 +75,6 @@ DerivedDataCache/*
 
 # StarterContent
 Content/StarterContent/*
+
+# Mac Specific Files
+.DS_Store
